@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://example.com/2020/12/06/Disable-Tag-Encrypt-Test/</loc>
+    
+    <lastmod>2020-12-06</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2020/12/06/Encrypt-Order-Test/</loc>
+    
+    <lastmod>2020-12-06</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2020/12/06/Callback-Test/</loc>
+    
+    <lastmod>2020-12-06</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2020/12/06/Image-Test/</loc>
+    
+    <lastmod>2020-12-06</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2020/12/06/Empty-Password-Test/</loc>
+    
+    <lastmod>2020-12-06</lastmod>
+    
+  </url>
+  
+
+  <url>
+    <loc>http://example.com/</loc>
+    <lastmod>2020-12-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+  <url>
+    <loc>http://example.com/tags/EncryptedTag/</loc>
+    <lastmod>2020-12-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+  
+</urlset>

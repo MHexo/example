@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2020-12-06T01:59:36.711Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Disable Tag Encrypt Test</title>
+    <link href="http://example.com/2020/12/06/Disable-Tag-Encrypt-Test/"/>
+    <id>http://example.com/2020/12/06/Disable-Tag-Encrypt-Test/</id>
+    <published>2020-12-06T01:58:53.000Z</published>
+    <updated>2020-12-06T01:59:36.711Z</updated>
+    
+    <content type="html"><![CDATA[<p>This is test to disable tag encrypt functionality.</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">---</span><br><span class="line">title: Disable Tag Encrypt Test</span><br><span class="line">date: 2020-12-06 09:58:53</span><br><span class="line">tags:</span><br><span class="line">    - EncryptedTag</span><br><span class="line">password: &quot;&quot;</span><br><span class="line">---</span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;This is test to disable tag encrypt functionality.&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;li</summary>
+      
+    
+    
+    
+    
+    <category term="EncryptedTag" scheme="http://example.com/tags/EncryptedTag/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Encrypt Order Test</title>
+    <link href="http://example.com/2020/12/06/Encrypt-Order-Test/"/>
+    <id>http://example.com/2020/12/06/Encrypt-Order-Test/</id>
+    <published>2020-12-06T01:56:46.000Z</published>
+    <updated>2020-12-06T01:58:19.140Z</updated>
+    
+    <content type="html"><![CDATA[<div id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="Oh, these decrypted content cannot be verified, but you can still have a look.">  <div class="hbe-input-container">  <input type="password" id="hbePass" placeholder="" />    <label for="hbePass">Password is hello1</label>    <div class="bottom-line"></div>  </div>  <script id="hbeData" type="hbeData" data-hmacdigest="60ef6e0de24d0160e0e12af17fab4f39c8f21539efd977f65e8b2befc3c2c5e2">8de79950f6bda2461f3528615237e5d57f9200d155084ed04b26d6df665b39d5ab6d5cac6d47f9830bc82dccb29330b0dd528d31f22e0aff76799b207482d478e616c07279d98b8452b39a4306fe08b6538e1cfcf5ab77bc06e80683cee7b50186c1b8832353ec490e17c3ecd7364b7ac323a5348354859127a553df7162b64363d291403d26b8a8e283ce68e8089c3adc042e1c4bd40177096112b41d0dd453a165eaf2f7e127dbb31923c2c8633c5b0f4c994629344b258e285cfbd33a7828de86817815ae578752a20afdcdfc9cac3028b0aff4756e85c335af2d6e8b367de5e6d7eeeb2049f63b61d2b614955fa4e8fff90a309bfa2c6ef4ee2da8fa844c1bd586ec49d24918fe57afe2061e2a4eef79f2a5e800205c96019d24e1f7f05f7e42e4cf64ea46385f0cc4a09e92f1388feb985211cda1bd0914c671b75c3664db1a238af237c733d25f6fa6fffb500fcc054ee716e9a842d6c5067d15254f53e56eeb140e8d5b742f073ad5c4aa7a4b7041b8dabf1e3db9d57862327c4ff77bd7495d0401bcf5d63f01b22f282c2cd310f26ba60a3699b5eee3268c6656198c9899c8e1a5407393aaf43fd2168c56df9e19e9e86411c97c647dc2af5ca06b1112ce1f48314dcbd38839ac2183ef42399ae8d58aeeca790517aa04bd4f18876d817f3abe96b359ad1e757b1ea48d053e88c48b38ef53a893d72bc197a7f71ef73cb772339599f6a50c550a94091e5f7ed70c2f302c227fcf710e203abe6b2972434c6b807dad72665ecbc22d6ad44c025d2773dbd4697b7feda2ae8ed5e17c2dcfaa112ccf4a0e8e7969c2c3af780b49c0f61d0d29a780a2e13b9405bf38150f46f26d45d56aa37f79db5b98d7a6c9920fd25de1bd7be95a0b0cb74f6b371d7f9678116e19a20585a6517bf778214ead1bf7c4e982656ddbd201bab53fb06c6f5829b25db33fd03635a49309fb1e99b0be68a724c18c90649c90074ccbcc8f675896386305e59d2256e0e42b2e9d3099514aa64b9030d5ab14157f14188422d9c80ca38fec461c269ef5438219f9b721663eb27f56b5c872384c4a9a290b40669fdceec5cae86ca9e210ceaf19a6b67066479242bc97b6db28d2c19673b9280c86ff898474789336699bddd74c418dcaf546f550a450a99ecd87d4e1d4d43193baa2800318874da941b4deed7b1f627d1a3533d7cf7d096d754fc8958eb922d7c86657464ebaf71ccd8090144076cb4eacd4e11647183dcf06fdeaa90b7e244aa2d069f428f7904127bb4b4ebf6e5ecb</script></div><script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
+    
+    
+    <summary type="html">Password is hello1</summary>
+    
+    
+    
+    
+    <category term="EncryptedTag" scheme="http://example.com/tags/EncryptedTag/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Callback Test</title>
+    <link href="http://example.com/2020/12/06/Callback-Test/"/>
+    <id>http://example.com/2020/12/06/Callback-Test/</id>
+    <published>2020-12-06T01:54:12.000Z</published>
+    <updated>2020-12-06T01:56:25.297Z</updated>
+    
+    <content type="html"><![CDATA[<div id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="Oh, these decrypted content cannot be verified, but you can still have a look.">  <div class="hbe-input-container">  <input type="password" id="hbePass" placeholder="" />    <label for="hbePass">Example, Hey, password is required here and password is 'Hello'.</label>    <div class="bottom-line"></div>  </div>  <script id="hbeData" type="hbeData" data-hmacdigest="c955f73dfe95bbc76fe75fd29bb3e7890916dc522ecf0807a64715d7de51a7f7">19946b0c4fb38342a1e0a8c690e8571dab25af7dcda8ef6315b11bc79180d9784a314f11a5b2aa11c38b72cc8834f4999a59dc19dd6a806845e19748f26129e65b3fa8cd6cbc2e700ee2beebd658d439320836691c89f0c699edcf89f3e463198a313d898dcd8cf9b562b52b1a08639ad32fbf72b100d5354643a1e7936166f2781deaad88f94f4d00e396c5e4adb645212d856d57c53e12f089b3432904e9493fa0f0611bdbbc1ea3399898dc1770e55b6d76b7de6d34fbc7d80e9e11effca66c1c43d177149192b94d631cbb134a42d7d186f6772178348d1a31d1e07176f5d05c2e0b0df6e471d9d3168fb629fb636fef6dac9dca1646320936c0696446e23006212062f2bdc2c5431834359419fe36ab84b1115e662fe9d0e3ca92063cc7a68e733041f997f4cc95bb0919c1c98710c64c9ba0537f2aaa8cc59f059c2af0044f1c8a6d2944cdfa72e55771ab7b20466a170354a974c9bb7e5608cbc7d2e83b741e22ea12032ee118a3fd68e580ba844b01ade713b9e11b59cf66837a4ea6c442f29ca58c1af9a9a865f7afd8f8e64f47c65e784bf4c822624043abbad06c17044e661c4a157224827af5f2fb21a91f55707aa7e494fc377c0c9eb824b4c8120b37da334538aeb4d5fd9c5c99a0c8e5bfea525857ea89e7eb93f9680b1fbec3ca87d2cb9b2ebf2361d7b26e714e67acba27834b44084c99d33df20f545d7d539bf094a98a8a5d2b144241de4484ae</script></div><script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
+    
+    
+    <summary type="html">Example, Here&#39;s something encrypted, password is required to continue reading.</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Image Test</title>
+    <link href="http://example.com/2020/12/06/Image-Test/"/>
+    <id>http://example.com/2020/12/06/Image-Test/</id>
+    <published>2020-12-06T01:42:06.000Z</published>
+    <updated>2020-12-06T01:53:54.543Z</updated>
+    
+    <content type="html"><![CDATA[<div id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="Oh, these decrypted content cannot be verified, but you can still have a look.">  <div class="hbe-input-container">  <input type="password" id="hbePass" placeholder="" />    <label for="hbePass">Example, Hey, password is required here and password is 'Hello'.</label>    <div class="bottom-line"></div>  </div>  <script id="hbeData" type="hbeData" data-hmacdigest="2067a821f913918087eff85f5592faa3eca4dae5d0215eb88fa3e569e375c9ae">19946b0c4fb38342a1e0a8c690e8571dab25af7dcda8ef6315b11bc79180d9788e4dc89afb09ed7883a74f5e914887b80abfc78c66417191a7136e9ba6797cb0b7c86b83428334ad13a80bb248c6b7bd792a4306534ae81ec2cabe08c250dea1686d1579d877601dda54682167a1853a2950724567bd333109973e5a72be6821c2d339646ac5aff918775cb9142f79eda58f98cbafd0d2062612d518c051c1c6008f41bc58884cd514479821336e3f5b8bad9ba0e0ada0fa269ec50a91efe3c4033aa0970f4ab28ec4597d59180b65f694e52dc3a271355f26b9f88e17782e991bebe4eb23fcb64fa233113f9af5d53da045f8b2edde74a858cfb7b50b18c0922098df060196f62c529cf723af021770a75cb73931cb737b54dd64619076f5ba</script></div><script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
+    
+    
+    <summary type="html">Example, Here&#39;s something encrypted, password is required to continue reading.</summary>
+    
+    
+    
+    
+    <category term="EncryptedTag" scheme="http://example.com/tags/EncryptedTag/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Empty Password Test</title>
+    <link href="http://example.com/2020/12/06/Empty-Password-Test/"/>
+    <id>http://example.com/2020/12/06/Empty-Password-Test/</id>
+    <published>2020-12-06T01:37:09.000Z</published>
+    <updated>2020-12-06T01:41:14.868Z</updated>
+    
+    <content type="html"><![CDATA[<p>Hello, this is a test when password is “”.</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">---</span><br><span class="line">title: Empty Password Test</span><br><span class="line">date: 2020-12-06 09:37:09</span><br><span class="line">password: &quot;&quot;</span><br><span class="line">tags:</span><br><span class="line">---</span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Hello, this is a test when password is “”.&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/s</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
