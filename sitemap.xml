@@ -2,6 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://example.com/2020/12/23/Theme-Test-Up/</loc>
+    
+    <lastmod>2020-12-23</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2020/12/23/Theme-Test-Surge/</loc>
+    
+    <lastmod>2020-12-23</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2020/12/23/Theme-Test-Shrink/</loc>
+    
+    <lastmod>2020-12-23</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2020/12/23/Theme-Test-Flip/</loc>
+    
+    <lastmod>2020-12-23</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2020/12/23/Theme-Test-Default/</loc>
+    
+    <lastmod>2020-12-23</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2020/12/23/Theme-Test-Blink/</loc>
+    
+    <lastmod>2020-12-23</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2020/12/23/Theme-Test-Xray/</loc>
+    
+    <lastmod>2020-12-23</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2020/12/23/Theme-Test-Wave/</loc>
+    
+    <lastmod>2020-12-23</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://example.com/2020/12/06/Encrypt-Order-Test/</loc>
     
     <lastmod>2020-12-06</lastmod>
@@ -39,7 +95,7 @@
 
   <url>
     <loc>http://example.com/</loc>
-    <lastmod>2020-12-20</lastmod>
+    <lastmod>2020-12-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -47,7 +103,14 @@
   
   <url>
     <loc>http://example.com/tags/EncryptedTag/</loc>
-    <lastmod>2020-12-20</lastmod>
+    <lastmod>2020-12-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/ThemeTests/</loc>
+    <lastmod>2020-12-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
