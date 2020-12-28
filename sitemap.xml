@@ -95,7 +95,7 @@
 
   <url>
     <loc>http://example.com/</loc>
-    <lastmod>2020-12-23</lastmod>
+    <lastmod>2020-12-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -103,14 +103,14 @@
   
   <url>
     <loc>http://example.com/tags/EncryptedTag/</loc>
-    <lastmod>2020-12-23</lastmod>
+    <lastmod>2020-12-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/ThemeTests/</loc>
-    <lastmod>2020-12-23</lastmod>
+    <lastmod>2020-12-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
